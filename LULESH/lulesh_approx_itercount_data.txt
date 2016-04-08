@@ -1,0 +1,432 @@
+1,1,1,   Iteration count     =  932 
+
+1,1,2,   Iteration count     =  927 
+
+1,1,3,   Iteration count     =  915 
+
+1,1,4,   Iteration count     =  832 
+
+1,1,5,   Iteration count     =  921 
+
+1,1,6,   Iteration count     =  787 
+
+1,2,1,   Iteration count     =  929 
+
+1,2,2,   Iteration count     =  921 
+
+1,2,3,   Iteration count     =  904 
+
+1,2,4,   Iteration count     =  806 
+
+1,2,5,   Iteration count     =  914 
+
+1,2,6,   Iteration count     =  749 
+
+1,3,1,   Iteration count     =  917 
+
+1,3,2,   Iteration count     =  908 
+
+1,3,3,   Iteration count     =  890 
+
+1,3,4,   Iteration count     =  791 
+
+1,3,5,   Iteration count     =  893 
+
+1,3,6,   Iteration count     =  719 
+
+1,4,1,   Iteration count     =  912 
+
+1,4,2,   Iteration count     =  900 
+
+1,4,3,   Iteration count     =  880 
+
+1,4,4,   Iteration count     =  757 
+
+1,4,5,   Iteration count     =  891 
+
+1,4,6,   Iteration count     =  713 
+
+1,5,1,   Iteration count     =  890 
+
+1,5,2,   Iteration count     =  882 
+
+1,5,3,   Iteration count     =  858 
+
+1,5,4,   Iteration count     =  759 
+
+1,5,5,   Iteration count     =  868 
+
+1,5,6,   Iteration count     =  712 
+
+1,6,1,   Iteration count     =  882 
+
+1,6,2,   Iteration count     =  873 
+
+1,6,3,   Iteration count     =  850 
+
+1,6,4,   Iteration count     =  748 
+
+1,6,5,   Iteration count     =  856 
+
+1,6,6,   Iteration count     =  679 
+
+2,1,1,   Iteration count     =  945 
+
+2,1,2,   Iteration count     =  938 
+
+2,1,3,   Iteration count     =  923 
+
+2,1,4,   Iteration count     =  838 
+
+2,1,5,   Iteration count     =  930 
+
+2,1,6,   Iteration count     =  793 
+
+2,2,1,   Iteration count     =  943 
+
+2,2,2,   Iteration count     =  933 
+
+2,2,3,   Iteration count     =  914 
+
+2,2,4,   Iteration count     =  809 
+
+2,2,5,   Iteration count     =  921 
+
+2,2,6,   Iteration count     =  760 
+
+2,3,1,   Iteration count     =  925 
+
+2,3,2,   Iteration count     =  915 
+
+2,3,3,   Iteration count     =  892 
+
+2,3,4,   Iteration count     =  792 
+
+2,3,5,   Iteration count     =  898 
+
+2,3,6,   Iteration count     =  726 
+
+2,4,1,   Iteration count     =  924 
+
+2,4,2,   Iteration count     =  915 
+
+2,4,3,   Iteration count     =  888 
+
+2,4,4,   Iteration count     =  759 
+
+2,4,5,   Iteration count     =  896 
+
+2,4,6,   Iteration count     =  723 
+
+2,5,1,   Iteration count     =  896 
+
+2,5,2,   Iteration count     =  889 
+
+2,5,3,   Iteration count     =  861 
+
+2,5,4,   Iteration count     =  762 
+
+2,5,5,   Iteration count     =  869 
+
+2,5,6,   Iteration count     =  719 
+
+2,6,1,   Iteration count     =  891 
+
+2,6,2,   Iteration count     =  883 
+
+2,6,3,   Iteration count     =  858 
+
+2,6,4,   Iteration count     =  752 
+
+2,6,5,   Iteration count     =  865 
+
+2,6,6,   Iteration count     =  687 
+
+3,1,1,   Iteration count     =  956 
+
+3,1,2,   Iteration count     =  950 
+
+3,1,3,   Iteration count     =  928 
+
+3,1,4,   Iteration count     =  838 
+
+3,1,5,   Iteration count     =  940 
+
+3,1,6,   Iteration count     =  795 
+
+3,2,1,   Iteration count     =  951 
+
+3,2,2,   Iteration count     =  939 
+
+3,2,3,   Iteration count     =  917 
+
+3,2,4,   Iteration count     =  808 
+
+3,2,5,   Iteration count     =  927 
+
+3,2,6,   Iteration count     =  766 
+
+3,3,1,   Iteration count     =  935 
+
+3,3,2,   Iteration count     =  927 
+
+3,3,3,   Iteration count     =  897 
+
+3,3,4,   Iteration count     =  794 
+
+3,3,5,   Iteration count     =  906 
+
+3,3,6,   Iteration count     =  729 
+
+3,4,1,   Iteration count     =  926 
+
+3,4,2,   Iteration count     =  914 
+
+3,4,3,   Iteration count     =  892 
+
+3,4,4,   Iteration count     =  761 
+
+3,4,5,   Iteration count     =  897 
+
+3,4,6,   Iteration count     =  726 
+
+3,5,1,   Iteration count     =  901 
+
+3,5,2,   Iteration count     =  893 
+
+3,5,3,   Iteration count     =  865 
+
+3,5,4,   Iteration count     =  761 
+
+3,5,5,   Iteration count     =  877 
+
+3,5,6,   Iteration count     =  719 
+
+3,6,1,   Iteration count     =  897 
+
+3,6,2,   Iteration count     =  886 
+
+3,6,3,   Iteration count     =  862 
+
+3,6,4,   Iteration count     =  752 
+
+3,6,5,   Iteration count     =  865 
+
+3,6,6,   Iteration count     =  689 
+
+4,1,1,   Iteration count     =  964 
+
+4,1,2,   Iteration count     =  955 
+
+4,1,3,   Iteration count     =  932 
+
+4,1,4,   Iteration count     =  838 
+
+4,1,5,   Iteration count     =  945 
+
+4,1,6,   Iteration count     =  802 
+
+4,2,1,   Iteration count     =  961 
+
+4,2,2,   Iteration count     =  948 
+
+4,2,3,   Iteration count     =  923 
+
+4,2,4,   Iteration count     =  812 
+
+4,2,5,   Iteration count     =  933 
+
+4,2,6,   Iteration count     =  772 
+
+4,3,1,   Iteration count     =  940 
+
+4,3,2,   Iteration count     =  929 
+
+4,3,3,   Iteration count     =  900 
+
+4,3,4,   Iteration count     =  793 
+
+4,3,5,   Iteration count     =  910 
+
+4,3,6,   Iteration count     =  733 
+
+4,4,1,   Iteration count     =  934 
+
+4,4,2,   Iteration count     =  922 
+
+4,4,3,   Iteration count     =  895 
+
+4,4,4,   Iteration count     =  761 
+
+4,4,5,   Iteration count     =  906 
+
+4,4,6,   Iteration count     =  732 
+
+4,5,1,   Iteration count     =  909 
+
+4,5,2,   Iteration count     =  900 
+
+4,5,3,   Iteration count     =  867 
+
+4,5,4,   Iteration count     =  764 
+
+4,5,5,   Iteration count     =  880 
+
+4,5,6,   Iteration count     =  722 
+
+4,6,1,   Iteration count     =  902 
+
+4,6,2,   Iteration count     =  890 
+
+4,6,3,   Iteration count     =  861 
+
+4,6,4,   Iteration count     =  752 
+
+4,6,5,   Iteration count     =  869 
+
+4,6,6,   Iteration count     =  694 
+
+5,1,1,   Iteration count     =  969 
+
+5,1,2,   Iteration count     =  960 
+
+5,1,3,   Iteration count     =  934 
+
+5,1,4,   Iteration count     =  838 
+
+5,1,5,   Iteration count     =  948 
+
+5,1,6,   Iteration count     =  802 
+
+5,2,1,   Iteration count     =  961 
+
+5,2,2,   Iteration count     =  947 
+
+5,2,3,   Iteration count     =  925 
+
+5,2,4,   Iteration count     =  808 
+
+5,2,5,   Iteration count     =  936 
+
+5,2,6,   Iteration count     =  772 
+
+5,3,1,   Iteration count     =  939 
+
+5,3,2,   Iteration count     =  928 
+
+5,3,3,   Iteration count     =  902 
+
+5,3,4,   Iteration count     =  792 
+
+5,3,5,   Iteration count     =  910 
+
+5,3,6,   Iteration count     =  734 
+
+5,4,1,   Iteration count     =  934 
+
+5,4,2,   Iteration count     =  922 
+
+5,4,3,   Iteration count     =  892 
+
+5,4,4,   Iteration count     =  758 
+
+5,4,5,   Iteration count     =  903 
+
+5,4,6,   Iteration count     =  728 
+
+5,5,1,   Iteration count     =  905 
+
+5,5,2,   Iteration count     =  898 
+
+5,5,3,   Iteration count     =  866 
+
+5,5,4,   Iteration count     =  762 
+
+5,5,5,   Iteration count     =  878 
+
+5,5,6,   Iteration count     =  722 
+
+5,6,1,   Iteration count     =  895 
+
+5,6,2,   Iteration count     =  885 
+
+5,6,3,   Iteration count     =  861 
+
+5,6,4,   Iteration count     =  750 
+
+5,6,5,   Iteration count     =  867 
+
+5,6,6,   Iteration count     =  691 
+
+6,1,1,   Iteration count     =  970 
+
+6,1,2,   Iteration count     =  963 
+
+6,1,3,   Iteration count     =  938 
+
+6,1,4,   Iteration count     =  838 
+
+6,1,5,   Iteration count     =  951 
+
+6,1,6,   Iteration count     =  805 
+
+6,2,1,   Iteration count     =  966 
+
+6,2,2,   Iteration count     =  951 
+
+6,2,3,   Iteration count     =  927 
+
+6,2,4,   Iteration count     =  807 
+
+6,2,5,   Iteration count     =  936 
+
+6,2,6,   Iteration count     =  777 
+
+6,3,1,   Iteration count     =  941 
+
+6,3,2,   Iteration count     =  931 
+
+6,3,3,   Iteration count     =  905 
+
+6,3,4,   Iteration count     =  793 
+
+6,3,5,   Iteration count     =  909 
+
+6,3,6,   Iteration count     =  735 
+
+6,4,1,   Iteration count     =  937 
+
+6,4,2,   Iteration count     =  923 
+
+6,4,3,   Iteration count     =  894 
+
+6,4,4,   Iteration count     =  758 
+
+6,4,5,   Iteration count     =  907 
+
+6,4,6,   Iteration count     =  734 
+
+6,5,1,   Iteration count     =  911 
+
+6,5,2,   Iteration count     =  904 
+
+6,5,3,   Iteration count     =  868 
+
+6,5,4,   Iteration count     =  762 
+
+6,5,5,   Iteration count     =  879 
+
+6,5,6,   Iteration count     =  723 
+
+6,6,1,   Iteration count     =  901 
+
+6,6,2,   Iteration count     =  887 
+
+6,6,3,   Iteration count     =  863 
+
+6,6,4,   Iteration count     =  751 
+
+6,6,5,   Iteration count     =  867 
+
+6,6,6,   Iteration count     =  691 
+
